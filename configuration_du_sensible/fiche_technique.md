@@ -16,6 +16,7 @@ Il a trois formes géométriques, un carré, un cercle et un triangle, divisé e
  # Explications sur la mise en espace de l'oeuvre ou du dispositif 
 L'oeuvre est placée sur le premier mur à la gauche quand on entre. Elle est appart du reste de la salle et n'occupe pas beaucoup de place puisqu'elle est accrochée sur un mur et elles est plutôt mince. Il y a du mouvement rotatif dans cette oeuvre, ce qui donne un effet étrange de mouvement d'illusion quand on regarde façe à l'oeuvre.
 ![Photo](médias/oeuvre_carre.png)
+Photo prise par Nathan
  # Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 Pour les composantes, il y a du bois, de l'aluminium, de l'impression à jet d'encre sur acrylique, des diodes électrolumimnescentes, des systèmes électromécaniques, des détecteurs de mouvement, et de l'alimentation de courant. Le dispositif sont des tiges de métals qui tiennent des formes géométriques de différentes couleurs et il y a de la lumière.
  # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
