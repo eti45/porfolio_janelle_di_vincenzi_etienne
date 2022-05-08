@@ -32,4 +32,4 @@ Le centre Vox
 # Projecteur (Photo prise par Yousef)
 ![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/oral_illusion_foule/medias/Projecteur.jpg)
 # Projection (Photo prise par Yousef)
-![Photo]()
+![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/oral_illusion_foule/medias/Projection.jpg)
