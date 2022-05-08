@@ -30,11 +30,11 @@ j'ai aimé le look moderne des formes avec la lumière, personellement je trouve
  # 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 j'ai bien aimé l'oeuvre en général, mais si je suis vraiment sévère, je dirais que l'oeuvre n'était pas assez interactive puisqu'on ne fait que la regarder.
 # Références 
-# Oeuvre carré
+# Oeuvre carré (photo prise par Nathan)
 ![Photo](médias/oeuvre_carre.png)
-# Croquis
+# Croquis (photo prise par Nathan)
 ![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/configuration_du_sensible/m%C3%A9dias/Croquis.jpg)
-# Mécanisme de l'oeuvre
+# Mécanisme de l'oeuvre (photo prise par Nathan)
 ![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/configuration_du_sensible/m%C3%A9dias/oeuvre_mecanisme.png)
-# Système de l'oeuvre
+# Système de l'oeuvre (photo prise par Nathan)
 ![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/configuration_du_sensible/m%C3%A9dias/oeuvre_poid.png)
