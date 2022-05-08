@@ -30,4 +30,4 @@ Le centre Vox
 # Croquis (Fourni par le centre vox)
 ![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/oral_illusion_foule/medias/Croquis.jpg)
 # Projecteur (Photo prise par Yousef)
-![Photo]()
+![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/oral_illusion_foule/medias/Projecteur.jpg)
