@@ -29,5 +29,4 @@ J'aime bien l'oeuvre, mais je trouve qu'il n'y a pas grand chose à faire appart
 j'ai aimé le look moderne des formes avec la lumière, personellement je trouve que ça pourrait être une oeuvre dans une maison ultra moderne avec un style unique comme un extra que quelqu'un pourrait payer pour sa maison d'artiste.
  # 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 j'ai bien aimé l'oeuvre en général, mais si je suis vraiment sévère, je dirais que l'oeuvre n'était pas assez interactive puisqu'on ne fait que la regarder.
-# Références !
-[Photo](médias/oeuvre_carre.png)
+# Références ![Photo](médias/oeuvre_carre.png)
