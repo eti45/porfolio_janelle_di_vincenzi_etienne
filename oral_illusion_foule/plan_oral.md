@@ -1,6 +1,6 @@
 # Introduction :
-- [ ] Quel est l'objectif de votre communication (sujet posé = présentation oeuvre + expérience)
-- [ ] Quels aspects seront abordés ? (sujet divisé = les différents points du développement)
+Je vais présenter l'oeuvre que j'ai visité en allant à Montréal au centre vox sur l'exposition Illusion of a crowd
+Je vais présenter la date de visite, le lieu, les créateurs, les différentes composantes, l'année de la réalisation, l'explication de la mise en espace, l'expérience vécue, ce qui m'a plu et ce que j'ai moins aimé de l'oeuvre.
 
 # Développement :
 - [ ] Informations sur l'oeuvre et le lieu d'exposition (Titre, Nom de l'artiste, Année de réalisation, Nom de l'exposition ou de l'événement, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
