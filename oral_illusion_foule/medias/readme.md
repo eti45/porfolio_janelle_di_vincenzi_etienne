@@ -1,1 +1,1 @@
-# Ce dossier contient les médias de l'illusion de foule
+# Ce dossier contient les médias de l'oeuvre sur Illusion of a crowd
