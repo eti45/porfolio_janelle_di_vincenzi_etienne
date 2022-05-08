@@ -1,7 +1,7 @@
 # porfolio_janelle_di_vincenzi_etienne
 # Chacune des fiches complétées nous permettra de connaitre :
 
- # Titre de l'oeuvre ou de la réalisation
+# Titre de l'oeuvre ou de la réalisation
 
 #  Nom de l'artiste ou de la firme
 
