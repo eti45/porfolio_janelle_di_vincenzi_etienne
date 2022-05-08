@@ -7,7 +7,7 @@ Le titre de l'exposition est Illusion of a crowd et est créée par Clemens von 
 Pour expérimenter l'oeuvre, nous devons s'assir sur l'estrade en métal et équiper les écouteurs à notre disposition pour écouter une vidéo sur les foules. Les composantes sont  une estrade, un projecteur et des écouteurs. Les éléments nécéssaire pour le projet sont de l'électricité, des fils et des cables en métal pour soutenir le mur de projection.
 Mon expérience personelle était que j'étais plus impressioné par l'animation faite par ordinateur au final, parce que je croyais que c'était un extrait de la vraie vie au début, mais j'ai eu tort. j'ai été impressioné à quel point le virtuel peut sembler réel dans certain cas et à quel point la technologie pourra évoluer.
 J'aurais préféré qu'on utilise des haut-parleurs à la place d'utiliser des écouteurs, puisque personnellement, je trouve que des haut-parleurs me mettent plus dans l'ambiance que des écouteurs, mais ce n'est qu'une question de préférence.
-
+La disposition de cette oeuvre ressemble à quelques unes que nous avons déjà visité. C'est le même principe de regarder une vidéo sur un projecteur avec du son et nous devons l'écouter. Il y avait une oeuvre qui nécéssitait le port des écouteurs et c'était la distortion collective, la majorité des autre oeuvres visitées durant la session avaient du sons sur des haut-parleurs.
 
 # Conclusion :
 - [ ] Rappel des aspects présentés
