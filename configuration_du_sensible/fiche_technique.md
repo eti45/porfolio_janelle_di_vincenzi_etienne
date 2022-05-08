@@ -32,7 +32,7 @@ j'ai bien aimé l'oeuvre en général, mais si je suis vraiment sévère, je dir
 # Références 
 # Oeuvre carré (photo prise par Nathan)
 ![Photo](médias/oeuvre_carre.png)
-# Croquis (photo prise par Nathan)
+# Croquis
 ![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/configuration_du_sensible/m%C3%A9dias/Croquis.jpg)
 # Mécanisme de l'oeuvre (photo prise par Nathan)
 ![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/configuration_du_sensible/m%C3%A9dias/oeuvre_mecanisme.png)
