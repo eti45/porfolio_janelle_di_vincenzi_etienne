@@ -10,5 +10,6 @@ J'aurais préféré qu'on utilise des haut-parleurs à la place d'utiliser des �
 La disposition de cette oeuvre ressemble à quelques unes que nous avons déjà visité. C'est le même principe de regarder une vidéo sur un projecteur avec du son et nous devons l'écouter. Il y avait une oeuvre qui nécéssitait le port des écouteurs et c'était la distortion collective, la majorité des autre oeuvres visitées durant la session avaient du sons sur des haut-parleurs.
 
 # Conclusion :
-- [ ] Rappel des aspects présentés
-- [ ] Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session
+C'était une belle oeuvre qui était une animation très raffinée et réaliste, j'ai bien aimé.
+Une des choses qui m'a inspiré le plus durant toute la session était que c'était possible que nous fassions nous-même nos propres oeuvres, comme on a pu le voir avec l'exposition des troisièmes années, et cela m'a motivé à faire mes propres créations dans le futur.
+
