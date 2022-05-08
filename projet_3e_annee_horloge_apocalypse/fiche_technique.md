@@ -26,3 +26,4 @@ Nous devions répondre au téléphone à un certain moment dans l'oeuvre, mais n
 J'ai bien aimé que l'oeuvre est supposée représenter l'état de la planète qui se dégrade de plus en plus avec la pollution, parce que je trouve que c'est un bon moyen de sensibilisation envers la pollution et notre avenir en faisant vivre cette expérience multimédia.
  # 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 Ce n'était pas très clair pour nous comment il fallait utiliser le téléphone. Nous nous demandions s'il fallait composer un numéro à un certain moment ou quand devions nous le prendre. Ce que j'aurais fait à la place est que j'aurai démonté le morceau du téléphone qui sert à composer pour qu'on puisse être sûr que nous n'avons pas à l'utiliser.
+# Référence
