@@ -32,3 +32,5 @@ j'ai bien aimé l'oeuvre en général, mais si je suis vraiment sévère, je dir
 # Références 
 # Oeuvre carré
 ![Photo](médias/oeuvre_carre.png)
+# Croquis
+![Photo]()
