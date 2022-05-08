@@ -34,5 +34,5 @@ j'ai bien aimé l'oeuvre en général, mais si je suis vraiment sévère, je dir
 ![Photo](médias/oeuvre_carre.png)
 # Croquis
 ![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/configuration_du_sensible/m%C3%A9dias/Croquis.jpg)
-# 
-![Photo]()
+# Mécanisme de l'oeuvre
+![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/configuration_du_sensible/m%C3%A9dias/oeuvre_mecanisme.png)
