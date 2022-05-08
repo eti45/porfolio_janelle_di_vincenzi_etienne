@@ -28,6 +28,6 @@ J'ai bien aimé que l'oeuvre est supposée représenter l'état de la planète q
 Ce n'était pas très clair pour nous comment il fallait utiliser le téléphone. Nous nous demandions s'il fallait composer un numéro à un certain moment ou quand devions nous le prendre. Ce que j'aurais fait à la place est que j'aurai démonté le morceau du téléphone qui sert à composer pour qu'on puisse être sûr que nous n'avons pas à l'utiliser.
 # Référence
 # Croquis 
-![Photo]()
+![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/projet_3e_annee_horloge_apocalypse/medias/Croquis%20.jpg)
 # Oeuvre carré (photo prise par Nathan)
 ![Photo](médias/oeuvre_carre.png)
