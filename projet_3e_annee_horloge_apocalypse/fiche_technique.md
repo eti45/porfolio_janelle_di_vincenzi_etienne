@@ -35,3 +35,5 @@ Ce n'était pas très clair pour nous comment il fallait utiliser le téléphone
 ![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/projet_3e_annee_horloge_apocalypse/medias/projecteur.png)
 # Mécanisme de l'horloge (photo prise par Nathan)
 ![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/projet_3e_annee_horloge_apocalypse/medias/hotloge_mecanisme.png)
+# Haut-parleurs (photo prise par Nathan)
+![Photo](https://github.com/eti45/porfolio_janelle_di_vincenzi_etienne/blob/main/projet_3e_annee_horloge_apocalypse/medias/haut_parleur.png)
