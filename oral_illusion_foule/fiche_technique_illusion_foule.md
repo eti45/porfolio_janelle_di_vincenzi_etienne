@@ -11,13 +11,13 @@ Le centre Vox
 # Date de votre visite
 30 avril 2022
  # Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
-Il y a une estrade en métal à l'avant d'une télévision
+Il y a une estrade en métal à l'avant d'une projection.
  # Explications sur la mise en espace de l'oeuvre ou du dispositif 
-Nous devons s'asseoir sur l'estrade et mettre les écouteurs à notre disposition sur notre tête pour écouter une vidéo expliquant sur les foules et leurs enjeux.
+Nous devons s'asseoir sur l'estrade et mettre les écouteurs à notre disposition sur notre tête pour écouter une vidéo expliquant les foules et leurs enjeux.
  # Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
-Estrade, télévision, écouteurs.
+Estrade, projecteur, écouteurs.
  # Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
-Électricité, fils, cable de fer pour soutenir la télévision.
+Électricité, fils, cable de fer pour soutenir le mur de projection.
  # Expérience vécue :
 J'étais assez fasciné par cet sorte de documentaire et explication des foules à travers une animation faite par ordinateur.
  # Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
